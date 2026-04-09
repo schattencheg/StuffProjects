@@ -1,0 +1,6 @@
+pathlib
+pywinctl
+tqdm
+pywin32
+Pillow
+psutil
